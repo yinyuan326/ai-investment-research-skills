@@ -1,0 +1,7 @@
+interface:
+  display_name: "Company Deep Research"
+  short_description: "机构级公司深研、盈利预测、多方法估值与PDF研报"
+  default_prompt: "Use $company-deep-research to produce an institutional-quality company report with traceable evidence, an operating model, valuation cross-checks, charts, Markdown, and PDF."
+
+policy:
+  allow_implicit_invocation: true
